@@ -1,0 +1,168 @@
+body
+{
+    background-image: url(bg.jpg);
+    border: solid black 7px;
+    
+    
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.main
+{
+    width: 1000px;
+    margin: auto;
+    border:solid white 1px;
+}
+
+.header
+{
+    height: 270px;
+    background-color: green;
+    background-image: url(carhbg.jpg);
+}
+
+.menu
+{
+    height: 40px;
+    background-color: maroon;
+    background-image: url(carmg.jpg);
+}
+
+.content
+{
+    height: 800px;
+    background-color: pink;
+}
+
+
+
+.footer
+{
+    height: 100px;
+    background-image: url(footer_menu2.jpg);
+}
+
+.footer_menu
+{
+    height: 40px;
+    background-image: url(footer_menu.jpg);
+}
+
+.copyright
+{
+    color: white;
+    text-align: center;
+}
+
+.design
+{
+    text-align: center;
+    color: white;
+}
+
+.span
+{
+    color: red;
+}
+
+
+.leftbar
+{
+    width: 270px;
+    height: 100%;
+    background-color: lightgray;
+    float: left;
+}
+
+.rightbar
+{
+    width: 730px;
+    height: 100%;
+    background-color: yellow;
+    float: right;
+}
+
+.submenu
+{
+width: 125px;
+float: left;
+color: white; 
+text-align: center;
+line-height: 40px;   
+}
+
+.submenu:hover
+{
+    background-color: orange;
+}
+
+.box1
+{
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+}
+
+
+.box2
+{
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.box3
+{
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.leftbartitle
+{
+    width: 250px;
+    height: 40px;
+}
+
+.lefttitle
+{
+    position: absolute;
+    text-align: center;
+    line-height: 40px;
+    height: 30px;
+    width: 100px;
+}
+
+.marquee
+{
+    width: 730px;
+    height: 80px;
+    background-color: white;
+    border: solid black 2px;
+    box-sizing: border-box;
+}
+
+.top_images
+{
+    width: 730px;
+    height: 720px;
+    background-color: white;  
+    box-sizing: border-box;
+    border: solid black 2px;
+    
+}
